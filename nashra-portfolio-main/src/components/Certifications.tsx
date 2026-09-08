@@ -19,11 +19,11 @@ import claudeCert from "@/assets/claude-cert.jpeg.asset.json";
 import innosparkCert from "@/assets/innospark-cert.jpeg.asset.json";
 import technovaCert from "@/assets/technova-cert.jpeg.asset.json";
 import brainwavesCert from "@/assets/brainwaves-cert.jpeg.asset.json";
-import gfgLogo from "@/assets/gfg-logo.png.asset.json";
-import gfeLogo from "@/assets/gfe-logo.png.asset.json";
-import anthropicLogo from "@/assets/anthropic-logo.png.asset.json";
-import gpLogo from "@/assets/gp-logo.png.asset.json";
-import mitLogo from "@/assets/mit-logo.png.asset.json";
+import gfgLogo from "@/assets/gfg-logo.jpeg.asset.json";
+import gfeLogo from "@/assets/gfe-logo.jpeg.asset.json";
+import anthropicLogo from "@/assets/anthropic-logo.jpeg.asset.json";
+import gpLogo from "@/assets/gp-logo.jpeg.asset.json";
+import mitLogo from "@/assets/mit-logo.jpeg.asset.json";
 
 type Item = {
   Icon: LucideIcon;
