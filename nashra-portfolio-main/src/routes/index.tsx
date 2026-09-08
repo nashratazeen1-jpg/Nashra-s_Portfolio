@@ -40,15 +40,15 @@ import { Certifications } from "@/components/Certifications";
 import { Preloader } from "@/components/Preloader";
 import { TypeCycle } from "@/components/TypeCycle";
 import heroBg from "../assets/hero-bg.jpg";
-import naskraftLogo from "../assets/naskraft-logo.png.asset.json";
-import naskraftCertificate from "../assets/naskraft-certificate.png.asset.json";
+import naskraftLogo from "../assets/naskraft-logo.jpeg";
+import naskraftCertificate from "../assets/naskraft-certificate.jpeg";
 import { TypeOnce } from "@/components/TypeOnce";
-import skillPython from "../assets/skill-python.png.asset.json";
-import skillC from "../assets/skill-c.png.asset.json";
-import skillJava from "../assets/skill-java.png.asset.json";
-import skillSql from "../assets/skill-sql.png.asset.json";
-import skillDbms from "../assets/skill-dbms.png.asset.json";
-import skillPrompt from "../assets/skill-prompt.png.asset.json";
+import skillPython from "../assets/skill-python.jpeg";
+import skillC from "../assets/skill-c.jpeg";
+import skillJava from "../assets/skill-java.jpeg";
+import skillSql from "../assets/skill-sql.jpeg";
+import skillDbms from "../assets/skill-dbms.jpeg";
+import skillPrompt from "../assets/skill-prompt.jpeg";
 
 
 export const Route = createFileRoute("/")({
