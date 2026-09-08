@@ -14,16 +14,16 @@ import {
 import type { LucideIcon } from "lucide-react";
 
 import { Reveal } from "@/components/Reveal";
-import geminiCert from "@/assets/gemini-cert.jpeg.asset.json";
-import claudeCert from "@/assets/claude-cert.jpeg.asset.json";
-import innosparkCert from "@/assets/innospark-cert.jpeg.asset.json";
-import technovaCert from "@/assets/technova-cert.jpeg.asset.json";
-import brainwavesCert from "@/assets/brainwaves-cert.jpeg.asset.json";
-import gfgLogo from "@/assets/gfg-logo.jpeg.asset.json";
-import gfeLogo from "@/assets/gfe-logo.jpeg.asset.json";
-import anthropicLogo from "@/assets/anthropic-logo.jpeg.asset.json";
-import gpLogo from "@/assets/gp-logo.jpeg.asset.json";
-import mitLogo from "@/assets/mit-logo.jpeg.asset.json";
+import geminiCert from "@/assets/gemini-cert.jpeg";
+import claudeCert from "@/assets/claude-cert.jpeg";
+import innosparkCert from "@/assets/innospark-cert.jpeg";
+import technovaCert from "@/assets/technova-cert.jpeg";
+import brainwavesCert from "@/assets/brainwaves-cert.jpeg";
+import gfgLogo from "@/assets/gfg-logo.jpeg";
+import gfeLogo from "@/assets/gfe-logo.jpeg";
+import anthropicLogo from "@/assets/anthropic-logo.jpeg";
+import gpLogo from "@/assets/gp-logo.jpeg";
+import mitLogo from "@/assets/mit-logo.jpeg";
 
 type Item = {
   Icon: LucideIcon;
