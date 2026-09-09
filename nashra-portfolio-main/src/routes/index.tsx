@@ -91,12 +91,12 @@ const socialLinks = [
 ];
 
 const skills = [
-  { name: "Python", logo: skillPython.url },
-  { name: "C", logo: skillC.url },
-  { name: "Core Java", logo: skillJava.url },
-  { name: "Fundamentals of SQL", logo: skillSql.url },
-  { name: "Iterative Prompt Engineering", logo: skillPrompt.url },
-  { name: "DBMS", logo: skillDbms.url },
+  { name: "Python", logo: skillPython },
+  { name: "C", logo: skillC },
+  { name: "Core Java", logo: skillJava },
+  { name: "Fundamentals of SQL", logo: skillSql },
+  { name: "Iterative Prompt Engineering", logo: skillPrompt },
+  { name: "DBMS", logo: skillDbms },
 ] as const;
 
 
