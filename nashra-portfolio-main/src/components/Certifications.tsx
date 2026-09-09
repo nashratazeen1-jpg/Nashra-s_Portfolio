@@ -39,7 +39,7 @@ type Item = {
 const items: Item[] = [
   {
     Icon: Trophy,
-    logo: gfgLogo.url,
+    logo: gfgLogo,
     title: "GFG Connect — 2025",
     organizer: "GeeksforGeeks",
     description:
@@ -49,7 +49,7 @@ const items: Item[] = [
   },
   {
     Icon: Trophy,
-    logo: gfgLogo.url,
+    logo: gfgLogo,
     title: "GFG Connect — 2026",
     organizer: "GeeksforGeeks",
     description:
@@ -59,48 +59,48 @@ const items: Item[] = [
   },
   {
     Icon: Sparkles,
-    logo: gfeLogo.url,
+    logo: gfeLogo,
     title: "Gemini Certified Student",
     organizer: "Google for Education",
     description: "Demonstrated knowledge and basic competencies required to use Google AI.",
     cta: "View Certificate",
-    image: geminiCert.url,
+    image: geminiCert,
   },
   {
     Icon: Bot,
-    logo: anthropicLogo.url,
+    logo: anthropicLogo,
     title: "Claude 101",
     organizer: "Anthropic",
     description: "Completed the Claude 101 introductory course.",
     cta: "View Certificate",
-    image: claudeCert.url,
+    image: claudeCert,
   },
   {
     Icon: Presentation,
-    logo: gpLogo.url,
+    logo: gpLogo,
     title: "InnoSpark 2026 — Project Presentation",
     organizer: "Government Polytechnic, Chhatrapati Sambhajinagar",
     description: "State-Level Project Presentation featuring my Attendance Automation project.",
     cta: "View Certificate",
-    image: innosparkCert.url,
+    image: innosparkCert,
   },
   {
     Icon: Code2,
-    logo: gpLogo.url,
+    logo: gpLogo,
     title: "Technova 2025 — C-Code Error Hunt",
     organizer: "Government Polytechnic, Chhatrapati Sambhajinagar",
     description: "Participated in the State-Level C-Code Error Hunt.",
     cta: "View Certificate",
-    image: technovaCert.url,
+    image: technovaCert,
   },
   {
     Icon: Brain,
-    logo: mitLogo.url,
+    logo: mitLogo,
     title: "Brainwaves 2K25 — C-Coding",
     organizer: "Marathwada Institute of Technology Polytechnic, Chhatrapati Sambhajinagar",
     description: "Participated in the State-Level C-Coding competition.",
     cta: "View Certificate",
-    image: brainwavesCert.url,
+    image: brainwavesCert,
   },
 ];
 
