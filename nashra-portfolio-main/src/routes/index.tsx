@@ -238,7 +238,7 @@ function SectionLabel({ children }: { children: string }) {
 }
 
 function Marquee() {
-  const items = ["Python", "Artificial Intelligence", "DBMS", "Core Java", "SQL", "C / C++"];
+  const items = ["Python", "Artificial Intelligence", "DBMS", "Core Java", "SQL", "C", "Iterative Prompt Engineering" ];
   const row = [...items, ...items, ...items, ...items];
   return (
     <div className="relative overflow-hidden border-y border-border py-5">
