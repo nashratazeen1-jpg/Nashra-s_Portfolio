@@ -708,7 +708,7 @@ function Index() {
                   <div className="flex items-start gap-4 sm:gap-5">
                     <div className="flex h-16 w-16 shrink-0 items-center justify-center rounded-2xl bg-white/95 p-2.5 shadow-sm sm:h-20 sm:w-20">
                       <img
-                        src={naskraftLogo.url}
+                        src={naskraftLogo}
                         alt="Naskraft IT Solutions logo"
                         loading="lazy"
                         className="h-full w-full object-contain"
@@ -764,7 +764,7 @@ function Index() {
                       </div>
                     )}
                     <img
-                      src={naskraftCertificate.url}
+                      src={naskraftCertificate}
                       alt="Naskraft IT Solutions Internship Certificate"
                       onLoad={() => setCertificateLoaded(true)}
                       className={`max-h-[82vh] w-auto max-w-full rounded-lg object-contain transition-opacity duration-300 ${
