@@ -18,9 +18,9 @@ A personal portfolio website showcasing my journey in **Artificial Intelligence 
 
 ## 🛠️ Built With
 
-- JavaScript
-- CSS
 - TypeScript
+- CSS
+- JavaScript
 - Modern web technologies
 - Vercel for deployment
 
